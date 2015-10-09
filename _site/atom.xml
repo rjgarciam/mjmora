@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>María José Mora Luque</title>
+ <link href="http://www.mjmora.es/atom.xml" rel="self"/>
+ <link href="http://www.mjmora.es/"/>
+ <updated>2015-10-09T10:07:15+02:00</updated>
+ <id>http://www.mjmora.es</id>
+ <author>
+   <name>Ricardo Garcia</name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>Beneficios al dejar de fumar</title>
+   <link href="http://www.mjmora.es/2015/10/01/Beneficios-al-dejar-de-fumar/"/>
+   <updated>2015-10-01T00:00:00+02:00</updated>
+   <id>http://www.mjmora.es/2015/10/01/Beneficios-al-dejar-de-fumar</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;../public/img/posts/dejardefumar.jpg&quot; class=&quot;img-responsive&quot; alt=&quot;Benficios al dejar de fumar&quot; width=&quot;100%&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;Cada persona debe de conocer  sus propias razones o beneficios para dejar de fumar.Puede haber aspectos que para algunos son un buen motivo para otros no lo es y viceversa.
+A continuación  indico las ventajas más frecuentes señaladas por la mayoría de las personas que han dejado de fumar.&lt;/p&gt;
+
+&lt;p&gt;Motivos de salud:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Vivir más años y vivirlos mejor.&lt;/li&gt;
+&lt;li&gt;Respirar mejor.&lt;/li&gt;
+&lt;li&gt;Cansarme menos y dejar de toser.&lt;/li&gt;
+&lt;li&gt;Reducir mis posibilidades de tener enfermedad cardiovascular, cáncer, enfermedad pulmonar.&lt;/li&gt;
+&lt;li&gt;Aumentar las posibilidades de tener un bebé saludable, disminuir complicaciones durante el embarazo y el parto, y evitar riesgos de salud a mi futuro hijo/a.&lt;/li&gt;
+&lt;li&gt;Piel más tersa, hidratada y tenga menos arrugas.&lt;/li&gt;
+&lt;li&gt;Dentadura blanca y limpia.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Mejorar calidad de vida:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Mejorar mi rendimiento físico.&lt;/li&gt;
+&lt;li&gt;Reducir el riesgo de accidentes caseros y de tráfico.&lt;/li&gt;
+&lt;li&gt;Disfrutar en mi casa de un ambiente más fresco y limpio.&lt;/li&gt;
+&lt;li&gt;No quemar más camisas, pantalones….y mi ropa no apeste a tabaco.&lt;/li&gt;
+&lt;li&gt;Ahorrar dinero y poderlo gastar en cosas más importantes.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Por autoestima y preocupación de los tuyos:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Librarme de esta esclavitud.&lt;/li&gt;
+&lt;li&gt;Dar alegría a mi familia y amigos….&lt;/li&gt;
+&lt;li&gt;Ser un buen ejemplo para mis hijos.&lt;/li&gt;
+&lt;li&gt;Respetar el derecho a la salud de las personas con las que convivo, especialmente: niños o personas con problemas de salud.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;¿Cuáles son tus motivos para dejar de fumar? Escribe una lista y tenla lo más presente posible te ayudar a conseguirlo.&lt;/strong&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Tríptico deshabituación tabáquica</title>
+   <link href="http://www.mjmora.es/2015/09/25/Tr%C3%ADptico-deshabituaci%C3%B3n-tab%C3%A1quica/"/>
+   <updated>2015-09-25T00:00:00+02:00</updated>
+   <id>http://www.mjmora.es/2015/09/25/Tríptico-deshabituación-tabáquica</id>
+   <content type="html">&lt;p&gt;En este tríptico está descrito el servicio de deshabituación tabáquica. Puede descargarlo en PDF desde &lt;a href=&quot;https://drive.google.com/file/d/0B5Ph7dAoFMcsOXRDMXM1ZjRYVFZXclpUSjVtZTQwOEU5UU9N/view?usp=sharing&quot;&gt;aquí&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../public/img/posts/trip1.jpg&quot; class=&quot;img-responsive&quot; width=&quot;100%&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../public/img/posts/trip2.jpg&quot; class=&quot;img-responsive&quot; width=&quot;100%&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Bienvenidos</title>
+   <link href="http://www.mjmora.es/2015/09/16/Bienvenidos/"/>
+   <updated>2015-09-16T00:00:00+02:00</updated>
+   <id>http://www.mjmora.es/2015/09/16/Bienvenidos</id>
+   <content type="html">&lt;p&gt;Cualquier día es bueno para dejar de fumar. Este importante paso tan sólo lo puedes decidir &amp;quot;tu&amp;quot;.
+Yo te ofrezco mi experiencia y apoyo en todo lo relacionado al tabaco: prevención, abordaje, etc.&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>
