@@ -3,7 +3,7 @@ layout: post
 title: Beneficios al dejar de fumar
 ---
 
-<img src="../public/img/posts/dejardefumar.jpg" class="img-responsive" alt="Benficios al dejar de fumar" width="100%">
+<img src="../mjmora/public/img/posts/dejardefumar.jpg" class="img-responsive" alt="Benficios al dejar de fumar" width="100%">
 
 Cada persona debe de conocer  sus propias razones o beneficios para dejar de fumar.Puede haber aspectos que para algunos son un buen motivo para otros no lo es y viceversa.
 A continuación  indico las ventajas más frecuentes señaladas por la mayoría de las personas que han dejado de fumar.
