@@ -4,7 +4,7 @@
  <title>María José Mora Luque</title>
  <link href="http://www.mjmora.es/atom.xml" rel="self"/>
  <link href="http://www.mjmora.es/"/>
- <updated>2015-10-09T17:07:07+02:00</updated>
+ <updated>2015-10-09T18:06:46+02:00</updated>
  <id>http://www.mjmora.es</id>
  <author>
    <name>Ricardo Garcia</name>
@@ -17,7 +17,7 @@
    <link href="http://www.mjmora.es/2015/10/01/Beneficios-al-dejar-de-fumar/"/>
    <updated>2015-10-01T00:00:00+02:00</updated>
    <id>http://www.mjmora.es/2015/10/01/Beneficios-al-dejar-de-fumar</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;../mjmora/public/img/posts/dejardefumar.jpg&quot; class=&quot;img-responsive&quot; alt=&quot;Benficios al dejar de fumar&quot; width=&quot;100%&quot;&gt;&lt;/p&gt;
+   <content type="html">&lt;p&gt;&lt;img src=&quot;../public/img/posts/dejardefumar.jpg&quot; class=&quot;img-responsive&quot; alt=&quot;Benficios al dejar de fumar&quot; width=&quot;100%&quot;&gt;&lt;/p&gt;
 
 &lt;p&gt;Cada persona debe de conocer  sus propias razones o beneficios para dejar de fumar.Puede haber aspectos que para algunos son un buen motivo para otros no lo es y viceversa.
 A continuación  indico las ventajas más frecuentes señaladas por la mayoría de las personas que han dejado de fumar.&lt;/p&gt;
@@ -64,9 +64,9 @@ A continuación  indico las ventajas más frecuentes señaladas por la mayoría 
    <id>http://www.mjmora.es/2015/09/25/Tríptico-deshabituación-tabáquica</id>
    <content type="html">&lt;p&gt;En este tríptico está descrito el servicio de deshabituación tabáquica. Puede descargarlo en PDF desde &lt;a href=&quot;https://drive.google.com/file/d/0B5Ph7dAoFMcsOXRDMXM1ZjRYVFZXclpUSjVtZTQwOEU5UU9N/view?usp=sharing&quot;&gt;aquí&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;../mjmora/public/img/posts/trip1.jpg&quot; class=&quot;img-responsive&quot; width=&quot;100%&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;../public/img/posts/trip1.jpg&quot; class=&quot;img-responsive&quot; width=&quot;100%&quot;&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;../mjmora/public/img/posts/trip2.jpg&quot; class=&quot;img-responsive&quot; width=&quot;100%&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;../public/img/posts/trip2.jpg&quot; class=&quot;img-responsive&quot; width=&quot;100%&quot;&gt;&lt;/p&gt;
 </content>
  </entry>
  
