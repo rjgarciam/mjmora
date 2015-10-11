@@ -11,7 +11,7 @@ title:            María José Mora Luque
 tagline:          ''
 description:      'Farmacéutica. Especialista en deshabituación tabáquica. Máster en Tabaquismo; Máster en Promoción de la Salud y Apoyo Psicosocial al Paciente.'
 url:              http://www.mjmora.es
-baseurl:          /mjmora
+baseurl:          /
 
 author:
   name:           'Ricardo Garcia'
