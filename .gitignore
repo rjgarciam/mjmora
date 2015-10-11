@@ -1,5 +1,4 @@
 
-<<<<<<< HEAD
 mjmora.sublime-workspace
 
 *.sublime-project
@@ -7,10 +6,3 @@ mjmora.sublime-workspace
 CNAME
 
 _site/
-=======
-*.sublime-project
-
-*.sublime-workspace
-
-CNAME
->>>>>>> gh-pages
